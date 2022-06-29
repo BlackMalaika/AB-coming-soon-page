@@ -278,3 +278,9 @@ h6{
 		margin-bottom: 20px;
 	}
 }
+
+@media (min-width: 600px) {
+	.column {
+		width: 50%;
+	}
+}
