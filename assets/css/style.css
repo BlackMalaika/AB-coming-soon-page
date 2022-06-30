@@ -467,7 +467,7 @@ section {
 #footer .copyright {
   text-align: center;
 }
-#footer .credits {
+#footer .credits p{
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
